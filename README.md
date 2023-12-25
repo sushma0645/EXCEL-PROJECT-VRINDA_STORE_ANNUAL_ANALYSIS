@@ -1,7 +1,7 @@
 # EXCEL-PROJECT-VRINDA_STORE_ANNUAL_ANALYSIS
 
 
-**Objective: Vrinda stores aims to creates an annual sales report for 2022 to better understand their customers and drive sales growth through in 2023.**
+**Objective: Vrinda Stores aims to create an annual sales report for 2022 to better understand their customers and drive sales growth through 2023.**
 
 During the creation of this dashboard, I acquired a diverse set of skills, including:
 - Analyzing and cleaning data
